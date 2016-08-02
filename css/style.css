@@ -1,0 +1,42 @@
+img {
+	height: 300px;
+}
+
+a {
+	margin:10px;
+}
+
+.play, .workLearn {
+	display:none;
+}
+
+html {
+	background: white;
+	padding:30px;
+}
+
+
+.workStyle {
+	background:gray;
+	color: black;
+	text-align: center;
+}
+
+.playStyle {
+	background: maroon;
+	color: white;
+	align: center;
+	text-align:center;
+}
+
+.workPlay {
+	background: black;
+}
+
+#resume{
+	text-align:left;
+}
+
+header div{
+	display: none;
+}
