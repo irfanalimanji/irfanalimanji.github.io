@@ -31,7 +31,12 @@ font-family: 'Lobster Two', cursive;
 
 
 .pageHead img{
-	margin-left:10px;
+	margin-left:20px;
+  margin-right:10px;
+}
+
+.pageHead{
+  font-size: 1.5rem;
 }
 
 a {
@@ -41,6 +46,10 @@ a {
 .play, .workLearn, .playLearn {
 	display:none;
 	padding:10px;
+}
+
+html{
+  font-size: 100%;
 }
 
 .workHtml {
@@ -94,6 +103,7 @@ a {
 	border-radius: 13px;
 	padding:4px;
 	clear:both;
+  margin-bottom:100px;
 }
 
 
@@ -175,4 +185,8 @@ iframe{
   margin:0;
   height:100px;
   display:inline-block;
+}
+
+#workSectionsContainer{
+  margin-bottom:100px;
 }
