@@ -187,6 +187,10 @@ iframe{
   display:inline-block;
 }
 
-#workSectionsContainer{
-  margin-bottom:100px;
+#workSectionsContainer, #playSectionsContainer{
+  margin-bottom:1000px;
+}
+
+#foodBlog {
+	margin-bottom: 100px;
 }
