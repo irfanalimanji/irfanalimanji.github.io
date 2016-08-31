@@ -120,3 +120,7 @@ $("#headerInterviews").on("click",function(){
 $(".blogPic1").hover(function(){
   $(".imgDescription1").fadeIn();
 })
+
+$("#resumeDL").click(function() {
+    window.location.href = "https://drive.google.com/uc?export=download&id=0ByGATdhnIKQQelFlUmNVRDVGS1E";
+});

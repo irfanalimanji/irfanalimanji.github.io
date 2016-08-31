@@ -95,7 +95,7 @@ html{
 	text-align:left;
 }
 
-.learnButton {
+.learnButton{
 	background: #343531;
 	color: white;
 	border-color:  #BEBDC0;
@@ -142,22 +142,22 @@ html{
   line-height: 150px;
   vertical-align: middle;
 }
-.imgWrap1, .imgWrap2{
-width:33.33%;
-margin: auto;
+.imgWrap1, .imgWrap2, .imgWrap3, .imgWrap4, .imgWrap5{
+margin: 0 auto;
+display: inline-block;
 }
 
-.blogPic1, .blogPic2{
+.blogPic1, .blogPic2, .blogPic3, .blogPic4, .blogPic5{
 border-radius: 10%;
 display:block;
 }
 
-.imgWrap1 a, .imgWrap2 a{
+.imgWrap1 a, .imgWrap2 a, .imgWrap3 a, .imgWrap4 a, .imgWrap5 a{
   float:left;
   position:relative;
 }
 
-.imgWrap2{
+.imgWrap2, .imgWrap5{
   clear:right;
 }
 
@@ -193,4 +193,15 @@ iframe{
 
 #foodBlog {
 	margin-bottom: 100px;
+}
+
+#resumeDL{
+	background: #343531;
+	color: white;
+	border-color:  #BEBDC0;
+	border-width: 4px;
+	border-radius: 13px;
+	padding:4px;
+	display:block;
+	margin: 0 auto;	
 }
