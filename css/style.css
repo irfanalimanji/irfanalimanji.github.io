@@ -72,7 +72,6 @@ html{
 .playStyle {
 	background: #B92725;
 	color: white;
-	align: center;
 	text-align:center;
 	transition: all .3s ease-in-out;
 	border-radius: 50px;
@@ -191,10 +190,6 @@ iframe{
   margin-bottom:1000px;
 }
 
-#foodBlog {
-	margin-bottom: 100px;
-}
-
 #resumeDL{
 	background: #343531;
 	color: white;
@@ -204,4 +199,8 @@ iframe{
 	padding:4px;
 	display:block;
 	margin: 0 auto;	
+}
+
+.play nav{
+	margin-bottom: 0px;
 }
