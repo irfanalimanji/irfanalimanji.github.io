@@ -17,8 +17,7 @@ button:focus{
 
 img {
     border-radius: 50%;
-    float: left;
-    height:100px;
+    height:150px;
 }
 
 .work{
@@ -120,6 +119,7 @@ html{
 	height: 50px;
 	margin-right:20px;
 	margin-bottom:20px;
+	display:inline;
 }
 
 #resume li, #resume h3{
