@@ -122,5 +122,5 @@ $(".blogPic1").hover(function(){
 })
 
 $("#resumeDL").click(function() {
-    window.location.href = "https://drive.google.com/uc?export=download&id=0ByGATdhnIKQQSEZOZG5QZ2dpdGM";
+    window.location.href = "https://drive.google.com/uc?export=download&id=0ByGATdhnIKQQckhITUJFVHBzdGc";
 });
